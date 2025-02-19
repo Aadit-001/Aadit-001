@@ -1,4 +1,4 @@
-## Hi, I am Aadit Jha 👋 ,
+## Hi, I am Aadit Jha 👋,
 A dedicated Full-Stack Developer with a strong background in creating dynamic and user-friendly applications. My expertise spans across various technologies including React, Node.js, Express, MongoDB, and Firebase. Recently, I had the opportunity to develop a comprehensive e-commerce web application for a client using React, Tailwind CSS, Firebase, Node.js, Git, GitHub, and Figma.
 
 - 🔭 I’m currently working on a Full Stack Application Named R-dental
