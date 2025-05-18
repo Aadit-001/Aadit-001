@@ -1,7 +1,7 @@
 ## Hi, I am Aadit Jha 👋,
 A dedicated Full-Stack Developer with a strong background in creating dynamic and user-friendly applications. My expertise spans across various technologies including React, Node.js, Express, MongoDB, and Firebase. Recently, I had the opportunity to develop a comprehensive e-commerce web application for a client using React, Tailwind CSS, Firebase, Node.js, Git, GitHub, and Figma.
 
-- 🔭 I’m currently working on a Full Stack Application Named R-dental
+- 🔭 I’m currently working on a Full Stack Application Named VortexAI
 - 🌱 I’m currently learning Machine Learing and Deep Learning
 
 
@@ -15,9 +15,6 @@ A dedicated Full-Stack Developer with a strong background in creating dynamic an
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aadit-001&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadit-001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aadit-001&limit=5&theme=dark&combine_all_yearly_contributions=true)
