@@ -13,7 +13,6 @@ A dedicated Full-Stack Developer with a strong background in creating dynamic an
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aadit-001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aadit-001&theme=dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadit-001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
